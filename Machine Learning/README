@@ -1,0 +1,2 @@
+Student Solution is a machine learning program based on a school assignment.
+It uses a BFS search to find the shortest path, assuming all costs were the same on a given grid
